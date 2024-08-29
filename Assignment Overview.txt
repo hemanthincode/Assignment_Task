@@ -1,0 +1,13 @@
+Assignment Overview
+
+In this assignment, the task is to demonstrate the application of advanced machine learning techniques by performing a face-swapping operation using a diffusion model, specifically the Stable Diffusion model. The goal is to seamlessly integrate a face from a source image into a target image, ensuring that the final output looks natural and realistic.
+
+Key Objectives:
+- Image Extraction: Extract images from a provided PDF file using PyMuPDF.
+- Face Detection and Alignment: Detect faces in both the source and target images using Haar      Cascades, and align them for the swapping process.
+- Face Swapping with Stable Diffusion: Utilize the Stable Diffusion model to replace the face in the target image with the face from the source image.
+- Post-Processing: Apply techniques like blending and color correction to ensure the face integrates seamlessly into the target image.
+- Documentation: Provide clear and detailed documentation of the process, including code explanations, challenges faced, and the final results.
+
+Outcome:
+The final deliverable should include the swapped face integrated into the target image, with all relevant code, explanations, and documentation needed to understand and replicate the approach.
